@@ -18,7 +18,7 @@
 
   <body>
     
-    <p><h1><i> A Deep Dive Into <b>Mixed Martial Arts</b> (MMA)</p></h1></i>
+    <p><h1><i> A Deep Dive Into <b>Mixed Martial Arts</b> (MMA)</h1></i>
             
             <p><h2><b> Intro </b></p></h2>
            
