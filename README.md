@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title> Comp-Sci Principles second semester -- Diego Brown </title>
+    <title>MMA Rundown</title>
     <style>
       h1 {
        color:red;
