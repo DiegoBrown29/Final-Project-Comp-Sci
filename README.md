@@ -18,9 +18,9 @@
 
   <body>
     
-    <p><h1><i> A Deep Dive Into <b>Mixed Martial Arts</b> (MMA)</h1></i>
+    <p><h1><i><b> A Deep Dive Into Mixed Martial Arts (MMA)</b></i></h1>
             
-            <p><h2><b> Intro </b></p></h2>
+            <p><h2><b> Intro </b></h2>
            
             <p><h4>Mixed martial arts (or MMA)is not for the queasy, nor the easily disturbed. 
             While it is a violent and at times gory sport, it can also be graceful.
@@ -34,9 +34,9 @@
             MMA takes extreme discipline, and no doubt takes a physical toll, requiring a fighter to not only deliver, but take heavy strikes to he head and body. 
             In order for you to get a better grasp on MMA, I will go over the rules of the sport, the weight classes and some of the most promising prospects in the sport. . 
             Allow me to take you throught the brilliant and complex
-            sport of Mixed Martial Arts.</p></h4>
+            sport of Mixed Martial Arts.</h4>
             
-            <p><h2><b> Rules </b></p></h2>
+            <p><h2><b> Rules </b></h2>
             
             <p><h4>There are little, but important rules in the sport of MMA. In such a violent sport, following the rules can prevent very serious injuries.
             For example, there is a rule against hitting your opponent in the back or especially in the back of the head. 
@@ -48,7 +48,7 @@
             Amongst these rules, there are more small technicalities that you must follow. But those are some of the most basic rules;
             even in a fighting sport -which many consider to be barbaric already- there is still a system, after all, we are not animals. </h4>
             
-            <p><h2><b> Weight Classes </b></h2></p>
+            <p><h2><b> Weight Classes </b></h2>
             
             <p><h4>MMA is split into weight classes to ensure that the fight is fair. We wouldn't want to see a giant 260 pound man crush a mere 150 pound figher.
             Weight classes depend on the league of mma that you are watching. Here is a table to help you understand the UFC (ultimate fighting championsip; one of the most popular leagues)</h4>
