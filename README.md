@@ -1,5 +1,3 @@
-# Final-Project-Comp-Sci
-
 <html>
   <head>
     <title>MMA Rundown</title>
@@ -101,10 +99,10 @@
             
             
             
-            <p><h3><b>Best Prospects/Fighters in the Sport</p></h3></b>
+            <p><h1><b>Best Prospects/Fighters in the Sport</h1></b>
             
             
-            <a href= "Volk.jpg"><img src = "Volk.jpg" width = "50%" height = "50%"></a>
+            <p><a href= "Volk.jpg"><img src = "Volk.jpg" width = "50%" height = "50%"></a>
             
             <p><h3>Alexander Volkanovski</h3>
             
@@ -115,7 +113,7 @@
   
   
   <a href= "khamzat.jpeg"><img src= "khamzat.jpeg"></a>
-  <p><h3>Khamzat Chimaev</h3>
+  <p><h2>Khamzat Chimaev</h2>
   <p><h4>Khamzat Chimaev is one of the best fighters of the generation, and one of the most promising prospects. Though he missed the fight of
   his career with Nate Diaz (my personal favorite fighter) because he missed weight, he still remains a brilliant and strategic fighter. He is a 
   3 time wrestling national champion in Sweden, and is very entertaining to watch. He quickly rose to the top most dangerous fighters in he division. </h4>
@@ -124,7 +122,7 @@
   
   <p><a href= "Yair.jpg"><img src = "Yair.jpg"></a>
     
-  <p><h3> Yair Rodriguez </h3>
+  <p><h2> Yair Rodriguez </h2>
   <p><h4> Yair Rodriguez is a very promising upcoming fighter. He is skilled with his shots, landing them with precision, intention and power. 
   His speciality is kicks, ending fights because of the power of these strikes. He has beaten big names like Brian Ortega, BJ Penn and Dan Hooker. 
   He is no doubt a disciplined and talented fighter.</h4>
@@ -132,14 +130,14 @@
   
   <p><a href = "Shavkat.jpeg"><img src = "Shavkat.jpeg"></a>
     
-    <p><h3> Shavkat Rakhmonov </h3>
+    <p><h2> Shavkat Rakhmonov </h2>
     
     <p><h4>Shavkat Rakhmonov is a fighter that many consider could be one of the greatest of all time. He has an impressive fight streak and 
     all of his fights are made for the highlight reels. He is a talented striker and grappler, and knows fighting strategy better than 
     many in the division. I'm very excited to see where he goes in the UFC.</h4>
     
     
-    <p><h3> Conclusion</h3>
+    <p><h2> Conclusion</h2>
     <h4><p> I hope you can now see some of the appeal to the sport of mixed martial arts. Many consider the sport to be needlessly violent,
     but I believe that there is not only strategy in the sport, but some grace and class as well. I wish that your interest in the sport has been peaked, 
     and that possibly in the future you can enjoy the sport as well - either watching, or even participating in any aspect of the sport-.
